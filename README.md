@@ -2,6 +2,9 @@
 
 This repository contains environmental sensor data extracted as part of the installations on display at the Botanical Garden, Bucharest, 2020. If you wish to execute the notebook in colab, please use [this url](https://colab.research.google.com/drive/1qIKeslN24RBLOnzep0XUFGZXWWQXa5n6?usp=sharing).
 
+![alt text]("https://raw.githubusercontent.com/chlorophylla-live/botanical-sensor-data/Carbon Monoxide (reducing) levels measured as resistance in Ohms.svg")
+
+
 Several field recordings extracted during the night-time are available on [https://www.mixcloud.com/chlorophylla/](https://www.mixcloud.com/chlorophylla/).
 
 
